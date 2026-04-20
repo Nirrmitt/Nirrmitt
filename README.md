@@ -1,51 +1,61 @@
-# Hi, I'm Nirrmit 
+# Hi, I'm Nirrmit 👋  
+### Data Engineer 
 
-🎯 **Data Analyst & ML Engineer** passionate about turning raw data into actionable insights.
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+I build **scalable data pipelines and automation-driven analytics systems** that transform raw data into decision-ready insights.  
+Focused on solving real-world business problems through **clean architecture, reliability, and end-to-end automation**.
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-
-| [Automated Retail Analytics Reporter](https://github.com/Nirrmitt/Automated-RP) | | End-to-end automated pipeline for generating KPI-driven retail reports and delivering them via email | Python, Pandas, Matplotlib, FPDF2 |
-
-| [Retail Analytics Platform](https://github.com/Nirrmitt/Retail-AP) | | Production-ready retail analytics API with KPI metrics & sales insights | Python, FastAPI, PostgreSQL |
-
-| [AI Resume Analyzer](https://github.com/Nirrmitt/AI-Resume-Analyzer-plus-EDA) | Resume-job matching with skill gap detection | Python, NLP, EDA |
-
-| [Landslide Data Analysis](https://github.com/Nirrmitt/Case-Study-Landslide-Data-Analysis) | Global landslide trend analysis | Python, Matplotlib |
-
+## 🔧 What I Do
+- Design and build **end-to-end ETL/ELT pipelines**
+- Automate reporting workflows (data → insights → delivery)
+- Develop **production-ready backend systems & APIs**
+- Work with data to drive **business decisions, not just dashboards**
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Loguru](https://img.shields.io/badge/Loguru-000000?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nirrmitt&show_icons=true&theme=tokyonight&cache_seconds=1800)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nirrmitt&layout=compact&theme=tokyonight&cache_seconds=1800)
+## 📌 Featured Projects
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Nirrmitt&theme=radical)
+### 🔹 [Retail Analytics Platform](https://github.com/Nirrmitt/Retail-AP)
+Production-ready analytics API delivering KPI metrics and sales insights using FastAPI and PostgreSQL.
+
+### 🔹 [Automated Retail Analytics Reporter](https://github.com/Nirrmitt/Automated-RP)
+End-to-end pipeline that transforms raw retail data into KPI-driven PDF reports and automatically delivers them to stakeholders.
+
+---
+
+## 📈 What Sets Me Apart
+- Strong focus on **real-world impact (time saved, errors reduced)**  
+- Combine **data engineering + analytics + backend systems**  
+- Write code that is **modular, testable, and production-ready**
 
 ---
 
 ## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-r-t/)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nirrmit_R._Tickoo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-r-t/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-NRT_Terminal-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nirrmitt.github.io/NRT-Terminal)
+[![Email](https://img.shields.io/badge/Email-nirrmit.rtickoo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirrmit.rtickoo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@nirrmitt-181717?style=for-the-badge&logo=github)](https://github.com/Nirrmitt)
 ---
 
-*Open to Data Analyst, ML/AI Engineer roles and Freelance let's connect!*
+## ⚡ Current Focus
+🔹 More Technical 
+- Advanced data orchestration with Airflow and transformation using dbt
+- Developing production-grade ETL/ELT pipelines and data workflows
+- Exploring cloud data platforms like Snowflake / BigQuery
