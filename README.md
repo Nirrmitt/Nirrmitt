@@ -20,11 +20,11 @@
 | Project | Description | Tech |
 |---|---|---|
 
+| [Automated Retail Analytics Reporter](https://github.com/Nirrmitt/Automated-RP) | | End-to-end automated pipeline for generating KPI-driven retail reports and delivering them via email | Python, Pandas, Matplotlib, FPDF2 |
+
 | [Retail Analytics Platform](https://github.com/Nirrmitt/Retail-AP) | | Production-ready retail analytics API with KPI metrics & sales insights | Python, FastAPI, PostgreSQL |
 
 | [AI Resume Analyzer](https://github.com/Nirrmitt/AI-Resume-Analyzer-plus-EDA) | Resume-job matching with skill gap detection | Python, NLP, EDA |
-
-| [Hospital Mortality Prediction](https://github.com/Nirrmitt/Hospital-Mortality-Prediction-) | ML model to predict patient risk | Scikit-learn, Pandas |
 
 | [Landslide Data Analysis](https://github.com/Nirrmitt/Case-Study-Landslide-Data-Analysis) | Global landslide trend analysis | Python, Matplotlib |
 
@@ -44,6 +44,7 @@
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/n-r-t/)
+
 
 ---
 
