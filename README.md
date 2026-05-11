@@ -1,4 +1,4 @@
-# Hi, I'm Nirrmit 👋  
+# Hello there, I'm Nirrmit 
 ### Data Engineer 
 
 I build **scalable data pipelines and automation-driven analytics systems** that transform raw data into decision-ready insights.  
