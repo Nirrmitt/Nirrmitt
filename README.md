@@ -23,7 +23,7 @@
 
 ## About
 
-I build practical AI and data applications that turn unstructured documents, text, and operational data into useful decisions. My work spans semantic matching and NLP, model-backed APIs, data pipelines, and interactive analytics—from ingestion and validation through to a usable interface.
+I build practical AI and data applications that turn unstructured documents, text, and operational data into useful decisions. My work spans semantic matching and NLP, model-backed APIs, data pipelines, and interactive analytics-from ingestion and validation through to a usable interface.
 
 I’m especially interested in **applied machine learning, GenAI product engineering, NLP, and reliable Python systems**. I focus on explaining what a system actually does, how it is evaluated, and where its limitations are.
 
@@ -36,7 +36,7 @@ Compares a resume with a job description using SentenceTransformer semantic simi
 
 `SentenceTransformers` `spaCy` `scikit-learn` `Streamlit`
 
-### 2. [RetailIQ — Ask Your Data](https://github.com/Nirrmitt/Sense-your-data)
+### 2. [RetailIQ -Ask Your Data](https://github.com/Nirrmitt/Sense-your-data)
 **GenAI · OpenRouter/OpenAI · FastAPI**
 
 A natural-language-to-SQL prototype for retail questions. It asks an OpenRouter or OpenAI-compatible model for a PostgreSQL `SELECT` statement, applies lightweight output checks, and presents a query preview in Streamlit.
@@ -97,16 +97,16 @@ An end-to-end reporting workflow that ingests retail data, calculates business K
 
 ## More projects
 
-- [Landslide Data Analysis](https://github.com/Nirrmitt/Case-Study-Landslide-Data-Analysis) — Python EDA of NASA's Global Landslide Catalog, including data cleaning, time/geography trends, trigger analysis, and outlier exploration.
-- [Layoffs Data Cleaning & EDA](https://github.com/Nirrmitt/Data-Cleaning-Exploratory-Data-Analysis) — MySQL workflow using staging tables, CTEs, window functions, standardization, and exploratory queries on a public layoffs dataset.
-- [Hospital Mortality SQL & Tableau Case Study](https://github.com/Nirrmitt/Hospital-Mortality-Prediction-) — SQL analysis and Tableau visualization of hospital outcomes. Despite the repository name, this is a SQL/BI case study, not a trained machine-learning prediction model.
-- [Fitness.AIO](https://github.com/Nirrmitt/Fitness-AI) — a small diet-tracking project for logging food and monitoring calorie and macronutrient intake.
-- [Portfolio site](https://nirrmitt.github.io/NRT-Terminal/) — project portfolio and personal site.
+- [Landslide Data Analysis](https://github.com/Nirrmitt/Case-Study-Landslide-Data-Analysis) -Python EDA of NASA's Global Landslide Catalog, including data cleaning, time/geography trends, trigger analysis, and outlier exploration.
+- [Layoffs Data Cleaning & EDA](https://github.com/Nirrmitt/Data-Cleaning-Exploratory-Data-Analysis) -MySQL workflow using staging tables, CTEs, window functions, standardization, and exploratory queries on a public layoffs dataset.
+- [Hospital Mortality SQL & Tableau Case Study](https://github.com/Nirrmitt/Hospital-Mortality-Prediction-) -SQL analysis and Tableau visualization of hospital outcomes. Despite the repository name, this is a SQL/BI case study, not a trained machine-learning prediction model.
+- [Fitness.AIO](https://github.com/Nirrmitt/Fitness-AI) -a small diet-tracking project for logging food and monitoring calorie and macronutrient intake.
+- [Portfolio site](https://nirrmitt.github.io/NRT-Terminal/) -project portfolio and personal site.
 
 <details>
   <summary>Research and earlier work</summary>
 
-- [GAN-Aimbot / ViZDoom experiments](https://github.com/Nirrmitt/GAN-Aimbot) — a research-oriented repository with experiment and data-collection scripts associated with GAN-Aimbots research. This is exploratory work, not a production application.
+- [GAN-Aimbot / ViZDoom experiments](https://github.com/Nirrmitt/GAN-Aimbot) -a research-oriented repository with experiment and data-collection scripts associated with GAN-Aimbots research. This is exploratory work, not a production application.
 </details>
 
 ## Currently learning
