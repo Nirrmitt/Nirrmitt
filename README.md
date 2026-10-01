@@ -36,7 +36,7 @@ Compares a resume with a job description using SentenceTransformer semantic simi
 
 `SentenceTransformers` `spaCy` `scikit-learn` `Streamlit`
 
-### 2. [RetailIQ -Ask Your Data](https://github.com/Nirrmitt/Sense-your-data)
+### 2. [RetailIQ- Sense Your Data](https://github.com/Nirrmitt/Sense-your-data)
 **GenAI · OpenRouter/OpenAI · FastAPI**
 
 A natural-language-to-SQL prototype for retail questions. It asks an OpenRouter or OpenAI-compatible model for a PostgreSQL `SELECT` statement, applies lightweight output checks, and presents a query preview in Streamlit.
