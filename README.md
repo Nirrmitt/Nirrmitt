@@ -45,7 +45,16 @@ A natural-language-to-SQL prototype for retail questions. It asks an OpenRouter 
 
 `OpenRouter` `OpenAI SDK` `FastAPI` `PostgreSQL` `Streamlit`
 
-### 3. [Automated KPI Extraction & Analytics Dashboard](https://github.com/Nirrmitt/Automated-KPI-Extraction--Analytics-Dashboard)
+### 3. [Niyam — Regulatory Intelligence](https://github.com/Nirrmitt/niyam-regulatory-intelligence)
+**RegTech · Document retrieval · FastAPI · Streamlit**
+
+A containerized regulatory-PDF research prototype. It extracts page text with PyMuPDF, ranks passages using lexical term-frequency cosine similarity, and returns excerpt-based responses with page-level citations through a FastAPI service and interactive Streamlit UI. PostgreSQL/pgvector is included as a foundation, but current retrieval uses an in-memory index.
+
+**Scope note:** this is not yet semantic-vector RAG or LLM-generated legal analysis. The configured retrieval modes are currently placeholders, and results should always be checked against the original regulation.
+
+`Python` `FastAPI` `Streamlit` `PyMuPDF` `PostgreSQL` `pgvector` `Docker Compose`
+
+### 4. [Automated KPI Extraction & Analytics Dashboard](https://github.com/Nirrmitt/Automated-KPI-Extraction--Analytics-Dashboard)
 **Document processing · Data engineering · Analytics**
 
 Ingests PDF and text reports, extracts revenue, churn, and NPS with deterministic regular-expression rules, validates records with Pydantic, and stores them idempotently with SQLAlchemy and SQLite. A Streamlit/Plotly dashboard adds date filtering, KPI trends, and CSV export.
@@ -54,14 +63,14 @@ This pipeline is deliberately rule-based; the repository does not currently use 
 
 `Python` `Pydantic` `SQLAlchemy` `SQLite` `Plotly`
 
-### 4. [Retail Analytics Platform](https://github.com/Nirrmitt/Retail-Analytics-Platform)
+### 5. [Retail Analytics Platform](https://github.com/Nirrmitt/Retail-Analytics-Platform)
 **Backend engineering · APIs · Analytics**
 
 A retail transaction-ingestion and KPI system with a FastAPI service, async PostgreSQL access, validated ingestion, and a Streamlit/Plotly dashboard. A transaction simulator exercises the ingestion and sales-analysis flow.
 
 `FastAPI` `asyncpg` `PostgreSQL` `Streamlit` `Plotly`
 
-### 5. [Automated Retail Analytics Reporter](https://github.com/Nirrmitt/Automated-Retail-Platform)
+### 6. [Automated Retail Analytics Reporter](https://github.com/Nirrmitt/Automated-Retail-Platform)
 **ETL · Reporting automation · Delivery**
 
 An end-to-end reporting workflow that ingests retail data, calculates business KPIs, creates charts and PDF reports, and automates delivery and scheduling. The repository documents email-based reporting and GitHub Actions scheduling.
