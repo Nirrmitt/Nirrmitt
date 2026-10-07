@@ -36,7 +36,7 @@ Compares a resume with a job description using SentenceTransformer semantic simi
 
 `SentenceTransformers` `spaCy` `scikit-learn` `Streamlit`
 
-### 2. [RetailIQ- Sense Your Data](https://github.com/Nirrmitt/Sense-your-data)
+### 2. [RetailIQ: Sense Your Data](https://github.com/Nirrmitt/Sense-your-data)
 **GenAI · OpenRouter/OpenAI · FastAPI**
 
 A natural-language-to-SQL prototype for retail questions. It asks an OpenRouter or OpenAI-compatible model for a PostgreSQL `SELECT` statement, applies lightweight output checks, and presents a query preview in Streamlit.
@@ -45,7 +45,7 @@ A natural-language-to-SQL prototype for retail questions. It asks an OpenRouter 
 
 `OpenRouter` `OpenAI SDK` `FastAPI` `PostgreSQL` `Streamlit`
 
-### 3. [Niyam — Regulatory Intelligence](https://github.com/Nirrmitt/niyam-regulatory-intelligence)
+### 3. [Niyam: Regulatory Intelligence](https://github.com/Nirrmitt/niyam-regulatory-intelligence)
 **RegTech · Document retrieval · FastAPI · Streamlit**
 
 A containerized regulatory-PDF research prototype. It extracts page text with PyMuPDF, ranks passages using lexical term-frequency cosine similarity, and returns excerpt-based responses with page-level citations through a FastAPI service and interactive Streamlit UI. PostgreSQL/pgvector is included as a foundation, but current retrieval uses an in-memory index.
